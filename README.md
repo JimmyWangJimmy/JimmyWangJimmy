@@ -2,7 +2,7 @@
 JimmyWangJimmy/JimmyWangJimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-背景：二本软件工程在读。继续学习！哈哈
+--唯无以天下为者，可以托天下也。
 
 - 😁 Currently: Learn FullStack
 
