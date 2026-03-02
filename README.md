@@ -7,16 +7,22 @@
 </p>
 
 <p align="center">
-  Builder, learner, and long-term thinker.<br/>
+  <b>Builder, learner, and long-term thinker.</b><br/>
   持续学习 Full-Stack，关注 AI、Agent 与知识系统。
+</p>
+
+<p align="center">
+  Learning Full-Stack • Building with AI • Curating OpenClaw KnowHowHub
+</p>
+
+<p align="center">
+  <a href="https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub">OpenClaw KnowHowHub</a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JimmyWangJimmy&show_icons=true&hide_title=true&hide_border=true" height="145" />
 </p>
 
-- Learning Full-Stack
-- Building with AI
-- Curating [OpenClaw KnowHowHub](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub)
-
-> 唯无以天下为者，可以托天下也。
+<p align="center">
+  <i>唯无以天下为者，可以托天下也。</i>
+</p>
