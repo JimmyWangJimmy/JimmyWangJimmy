@@ -1,38 +1,53 @@
 # Jimmy Wang
 
-> 唯无以天下为者，可以托天下也。
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-AI%20Agents-B91C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Knowledge%20Systems-1D4ED8?style=flat-square" />
+</p>
 
-Full-stack learner, AI explorer, and builder of useful knowledge systems.
+<p align="center">
+  <b>Builder, learner, and long-term thinker.</b><br/>
+  持续学习 Full-Stack，关注 AI、Agent、知识系统与真正有用的产品。
+</p>
 
-我希望自己做的东西，不只是能运行，
-而是真的能帮助别人理解、使用、协作、进步。
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JimmyWangJimmy&show_icons=true&hide_title=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWangJimmy&layout=compact&hide_border=true" height="150" />
+</p>
 
-## Currently
+## About Me
 
-- Learning Full-Stack
+- Full-stack learner / builder
+- Interested in AI agents, developer tools, and practical knowledge systems
+- 喜欢把零散信息整理成真正可用、可复用、可传播的东西
+- 正在把产品思维、工程实现和知识组织结合起来
+
+## What I'm Doing
+
+- Learning Full-Stack seriously
 - Building with AI
 - Exploring agent workflows
 - Curating high-signal knowledge for OpenClaw
 
-## Interests
+## Featured Project
 
-- AI Agents
-- Developer Tools
-- Product Thinking
-- Open Source
-- Knowledge Systems
+### [OpenClaw KnowHowHub](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub)
 
-## Featured
+A curated knowledge hub for OpenClaw users and agents.  
+目标是把它做成值得收藏的 Red Book + Cookbook。
 
-- [OpenClaw KnowHowHub](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub)  
-  A curated knowledge hub for OpenClaw users and agents.
+## Principles
 
-## Contact
+- Build useful things
+- Learn deeply
+- Think clearly
+- Ship continuously
+
+## Connect
 
 - GitHub: [@JimmyWangJimmy](https://github.com/JimmyWangJimmy)
 
 ## Motto
 
-> Learn in public.  
-> Build with intention.  
-> Ship useful things.
+> 唯无以天下为者，可以托天下也。
